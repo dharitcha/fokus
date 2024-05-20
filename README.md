@@ -6,4 +6,6 @@ Esse projeto foi feito para fins de estudo, usando uma aula da Alura + Programa 
 
 Modifiquei o design por conta própria, usando cores e imagens diferentes, para deixar o projeto mais divertido de testar! 😄
 
-Feito com HTML, CSS e JavaScript. 💙
+Feito com HTML, CSS e JavaScript.
+
+Você pode acessar e conferir o projeto aqui: https://dharitcha.github.io/fokus/ 💜
