@@ -43,7 +43,7 @@ The design was customized beyond the original template, with a unique color sche
 ## Installation and Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/fokus-timer.git
+   git clone https://github.com/dharitcha/fokus-timer.git
    ```
 2. Open `index.html` in a web browser.
 3. Select a mode and start the timer!
